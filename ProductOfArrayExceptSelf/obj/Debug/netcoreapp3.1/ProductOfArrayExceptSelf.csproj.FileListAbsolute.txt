@@ -1,0 +1,11 @@
+C:\Users\Ivan\source\repos\ProductOfArrayExceptSelfSolution\ProductOfArrayExceptSelf\bin\Debug\netcoreapp3.1\ProductOfArrayExceptSelf.exe
+C:\Users\Ivan\source\repos\ProductOfArrayExceptSelfSolution\ProductOfArrayExceptSelf\bin\Debug\netcoreapp3.1\ProductOfArrayExceptSelf.deps.json
+C:\Users\Ivan\source\repos\ProductOfArrayExceptSelfSolution\ProductOfArrayExceptSelf\bin\Debug\netcoreapp3.1\ProductOfArrayExceptSelf.runtimeconfig.json
+C:\Users\Ivan\source\repos\ProductOfArrayExceptSelfSolution\ProductOfArrayExceptSelf\bin\Debug\netcoreapp3.1\ProductOfArrayExceptSelf.runtimeconfig.dev.json
+C:\Users\Ivan\source\repos\ProductOfArrayExceptSelfSolution\ProductOfArrayExceptSelf\bin\Debug\netcoreapp3.1\ProductOfArrayExceptSelf.dll
+C:\Users\Ivan\source\repos\ProductOfArrayExceptSelfSolution\ProductOfArrayExceptSelf\bin\Debug\netcoreapp3.1\ProductOfArrayExceptSelf.pdb
+C:\Users\Ivan\source\repos\ProductOfArrayExceptSelfSolution\ProductOfArrayExceptSelf\obj\Debug\netcoreapp3.1\ProductOfArrayExceptSelf.csprojAssemblyReference.cache
+C:\Users\Ivan\source\repos\ProductOfArrayExceptSelfSolution\ProductOfArrayExceptSelf\obj\Debug\netcoreapp3.1\ProductOfArrayExceptSelf.AssemblyInfoInputs.cache
+C:\Users\Ivan\source\repos\ProductOfArrayExceptSelfSolution\ProductOfArrayExceptSelf\obj\Debug\netcoreapp3.1\ProductOfArrayExceptSelf.AssemblyInfo.cs
+C:\Users\Ivan\source\repos\ProductOfArrayExceptSelfSolution\ProductOfArrayExceptSelf\obj\Debug\netcoreapp3.1\ProductOfArrayExceptSelf.dll
+C:\Users\Ivan\source\repos\ProductOfArrayExceptSelfSolution\ProductOfArrayExceptSelf\obj\Debug\netcoreapp3.1\ProductOfArrayExceptSelf.pdb
